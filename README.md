@@ -21,10 +21,10 @@
 
 ```json
 {
-“name”: “Save £20 at Tesco”,
-“brand”: "Tesco",
-“value”: 20,
-“createdAt”: “2018-03-01 10:15:53”,
-“expiry”: “2019-03-01 10:15:53”
+"name": "Save £20 at Tesco",
+"brand": "Tesco",
+"value": 20,
+"createdAt": "2018-03-01 10:15:53",
+"expiry": "2019-03-01 10:15:53"
 }
 ```
